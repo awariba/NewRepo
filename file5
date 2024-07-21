@@ -1,2 +1,6 @@
-This is file5
+<<<<<<< HEAD
+this is file5
 
+=======
+this is file5
+>>>>>>> b1
